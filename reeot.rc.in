@@ -18,6 +18,7 @@ BEGIN
       VALUE "OriginalFilename", "reeot.exe"
       VALUE "ProductName",     "reeot"
       VALUE "ProductVersion",  "@PROJECT_VERSION@"
+      VALUE "BuildStamp",      "@REEOT_BUILD_TIMESTAMP@"
     END
   END
   BLOCK "VarFileInfo"
