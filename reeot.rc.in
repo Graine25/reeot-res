@@ -19,6 +19,8 @@ BEGIN
       VALUE "ProductName",     "reeot"
       VALUE "ProductVersion",  "@PROJECT_VERSION@"
       VALUE "BuildStamp",      "@REEOT_BUILD_TIMESTAMP@"
+      VALUE "Commit",          "@REEOT_GIT_COMMIT@"
+      VALUE "Modified",        "@REEOT_GIT_DIRTY@"
     END
   END
   BLOCK "VarFileInfo"
