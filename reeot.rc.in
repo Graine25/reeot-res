@@ -14,9 +14,9 @@ BEGIN
     BEGIN
       VALUE "FileDescription", "Spider-Man: Edge of Time, recompiled"
       VALUE "FileVersion",     "@PROJECT_VERSION@"
-      VALUE "InternalName",    "reeot"
-      VALUE "OriginalFilename", "reeot.exe"
-      VALUE "ProductName",     "reeot"
+      VALUE "InternalName",    "EdgeOfTimeRecomp"
+      VALUE "OriginalFilename", "EdgeOfTimeRecomp.exe"
+      VALUE "ProductName",     "EdgeOfTimeRecomp"
       VALUE "ProductVersion",  "@PROJECT_VERSION@"
       VALUE "BuildStamp",      "@REEOT_BUILD_TIMESTAMP@"
       VALUE "Commit",          "@REEOT_GIT_COMMIT@"
